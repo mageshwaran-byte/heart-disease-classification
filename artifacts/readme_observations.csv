@@ -1,0 +1,7 @@
+ML Model Name,Observation
+Logistic Regression,Strong baseline model with high interpretability
+Decision Tree,Interpretable decision rules but can overfit
+KNN,Distance-based model sensitive to scaling
+Naive Bayes,Fast probabilistic classifier with independence assumptions
+Support Vector Machine,Margin-maximizing classifier with strong generalization
+Overall Winner,Support Vector Machine

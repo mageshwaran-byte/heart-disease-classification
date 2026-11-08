@@ -1,0 +1,6 @@
+ML Model Name,Observation
+Logistic Regression,Strong baseline model with good interpretability
+Decision Tree,Easy to interpret but may overfit
+KNN,"Distance-based classifier, sensitive to scaling"
+Naive Bayes,Fast probabilistic model using Bayes theorem
+Support Vector Machine,Margin-maximizing classifier with strong generalization
