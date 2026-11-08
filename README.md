@@ -42,6 +42,8 @@ The application evaluates all five models on the same uploaded
 labelled CSV file, ranks the models using F1 Score, identifies
 the winner, and supports detailed model comparison.
 
+Deployment URL: https://heart-disease-classification-pzwykdtrdms2j3rxffh8dk.streamlit.app
+
 ## Repository Files
 
 - `app.py`
